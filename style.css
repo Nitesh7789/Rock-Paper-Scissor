@@ -1,0 +1,20 @@
+.container{
+    background-color: lightgrey;
+    margin: auto;
+    text-align: center;
+    border-radius: 14px;
+    padding: 10px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.choiceBtn{
+    width: 100px;
+    line-height: 25px;
+}
+
+#playerText{
+    color: blue;
+}
+
+#computerText{
+    color: red;
+}
